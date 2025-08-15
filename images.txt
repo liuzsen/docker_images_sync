@@ -1,1 +1,1 @@
-redis:latest
+linuxserver/qbittorrent:5.1.2
