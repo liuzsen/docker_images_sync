@@ -1,1 +1,1 @@
-redis:lastest
+redis
