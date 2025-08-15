@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+postgres
