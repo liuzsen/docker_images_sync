@@ -1,1 +1,1 @@
-iyuucn/iyuuplus-dev:latest
+linuxserver/transmission:4.0.6
